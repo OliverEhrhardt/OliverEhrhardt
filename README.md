@@ -1,5 +1,5 @@
 # Howdy Sailor ⛵ 👋
-My name is @OliverEhrhardt and I am a passionate DevOps Engineer with a knack for automation.
+My name is Oliver Ehrhardt and I am a passionate DevOps Engineer with a knack for automation.
 ## Tools
 - Python 🐍
 - AWS ☁️
