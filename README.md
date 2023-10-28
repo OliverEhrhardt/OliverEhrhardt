@@ -5,6 +5,7 @@ My name is Oliver Ehrhardt and I am a passionate DevOps Engineer with a knack fo
 - AWS ☁️
 - Terraform 🌎
 - Github Actions :octocat:
+- GitLab 🦊
 - Docker 🐳
 ## Interests
 - Build pipelines 🏗️
